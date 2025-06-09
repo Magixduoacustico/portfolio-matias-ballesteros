@@ -413,7 +413,14 @@
         /* *********************/
         /* seccion R E S P O N S I V E */
         /* *********************/
-        
+        @media screen and (max-width: 768px) {
+    #inicio {
+        background-size: 100% auto; /* Ancho completo, altura proporcional */
+        background-repeat: no-repeat;
+        height: auto;
+        min-height: 100vh;
+    }
+}
         @media screen and (max-width: 800px) {
             .redes {
                 display: none;
