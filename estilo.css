@@ -13,8 +13,8 @@
         /* seccion I N I C I O */
         /* *********************/
         
-        #inicio {
-            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/fondo-inicio.jpg");
+    #inicio {
+            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/jamzul.jpg");
             background-size: cover;
             background-position: center center;
             height: 100vh;
